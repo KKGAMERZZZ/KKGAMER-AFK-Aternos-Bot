@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "KKGAMERZZ",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "KKGAMER.aternos.me:20765",
     "port": 20765,
     "version": "",
-    "try-creative": false
+    "try-creative": true 
   },
   "position": {
     "enabled": true,
